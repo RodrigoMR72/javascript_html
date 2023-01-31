@@ -6,8 +6,13 @@ div{
     border-radius: 50%;
 
     background-color: black;
+
+    margin: auto;
+
+    
 }
 
 .ligada {
     background-color: yellow;
 }
+
